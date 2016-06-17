@@ -1,2 +1,2 @@
 # Code
-My daily dose of euler and usaco problems!
+Set of euler and usaco solved problems!
