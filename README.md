@@ -1,2 +1,2 @@
 # Code
-Set of euler and usaco solved problems!
+Set usaco solved problems!
